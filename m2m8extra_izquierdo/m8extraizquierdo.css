@@ -1,0 +1,281 @@
+@media (max-width: 768px){
+
+body{
+  padding: 0;
+  margin: 0;
+  font-family: sans-serif;
+}
+
+.cap{
+
+  width: 100%;
+  height: 100px;
+
+}
+
+.cap h1{
+  display: inline;
+  margin: 15px;
+  text-align: center;
+  margin-left: 50px;
+
+}
+
+.banner{
+  background-color: cyan;
+  height: 200px;
+  width: 100%;
+}
+
+.tips{
+
+  width: 100%;
+  height: 90px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.tips h1{
+  display: inline;
+  margin: 15px;
+  text-align: center;
+  margin-left: 50px;
+  float: left;
+  font-size: 50px;
+}
+.tips h3{
+  float: left;
+
+}
+
+.todo{
+  float: left;
+  margin-left: 30px;
+
+}
+
+.fotos{
+  width: 150px;
+  height: 150px;
+  float: left;
+
+}
+
+
+
+#uno{
+
+  width: 200px;
+  margin: 0px auto;
+  height: 180px;
+  margin-top: 10px;
+  float: left;
+  margin-left: 10px;
+
+  }
+
+  #uno h2{
+
+    width: 50px;
+    float: left;
+    font-size: 50px;
+    text-align:center;
+
+  }
+
+#dos{
+
+  width: 200px;
+  margin: 10px auto;
+  height: 180px;
+  margin-top: 10px;
+  float: left;
+  margin-left: 10px;
+}
+
+#dos h2{
+
+  width: 50px;
+  float: left;
+  font-size: 50px;
+  text-align:center;
+}
+
+#tres{
+
+  width: 200px;
+  margin: 10px auto;
+  height: 180px;
+  margin-top: 10px;
+  float: left;
+  margin-left: 10px;
+}
+
+#tres h2{
+
+  width: 50px;
+  float: left;
+  font-size: 50px;
+  text-align:center;
+}
+
+#cuatro{
+
+  width: 200px;
+  margin: 10px auto;
+  height: 180px;
+  margin-top: 10px;
+  float: left;
+  margin-left: 10px;
+}
+
+#cuatro h2{
+
+  width: 50px;
+  float: left;
+  font-size: 50px;
+  text-align:center;
+}
+
+#cinco{
+
+  width: 200px;
+  margin: 10px auto;
+  height: 180px;
+  margin-top: 10px;
+  float: left;
+  margin-left: 10px;
+}
+
+#cinco h2{
+
+  width: 50px;
+  float: left;
+  font-size: 50px;
+  text-align:center;
+}
+
+#seis{
+
+  width: 200px;
+  margin: 10px auto;
+  height: 180px;
+  margin-top: 10px;
+  float: left;
+  margin-left: 10px;
+}
+
+#seis h2{
+
+  width: 50px;
+  float: left;
+  font-size: 50px;
+  text-align:center;
+}
+
+#siete{
+
+  width: 200px;
+  margin: 10px auto;
+  height: 180px;
+  margin-top: 10px;
+  float: left;
+  margin-left: 10px;
+}
+
+#siete h2{
+
+  width: 50px;
+  float: left;
+  font-size: 50px;
+  text-align:center;
+}
+
+#ocho{
+
+  width: 200px;
+  margin: 10px auto;
+  height: 180px;
+  margin-top: 10px;
+  float: left;
+  margin-left: 10px;
+
+}
+
+#ocho h2{
+
+  width: 50px;
+  float: left;
+  font-size: 50px;
+  text-align:center;
+}
+
+#nueve{
+
+  width: 200px;
+  margin: 10px auto;
+  height: 180px;
+  margin-top: 10px;
+  float: left;
+  margin-left: 10px;
+}
+
+#nueve h2{
+
+  width: 50px;
+  float: left;
+  font-size: 50px;
+  text-align:center;
+}
+
+.tips2{
+
+  width: 100%;
+  height: 100px;
+  overflow: hidden;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.tips2 h1{
+  display: inline;
+  margin: 15px;
+  text-align: center;
+  margin-left: 50px;
+  float: left;
+    font-size: 50px;
+}
+.tips2 h3{
+  float: left;
+
+}
+
+
+.tips3{
+
+  width: 100%;
+  height: 100px;
+  overflow: hidden;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.tips3 h1{
+  display: inline;
+  margin: 15px;
+  text-align: center;
+  margin-left: 50px;
+  float: left;
+    font-size: 50px;
+}
+.tips3 h3{
+  float: left;
+
+}
+
+
+
+
+
+
+}
